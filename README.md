@@ -9,11 +9,11 @@
 
 
 ## **2. Izgled prototipa**
-[Prototip](images/prototip.jpg)
+![Prototip](images/prototip.jpg)
 
 
 ## **3. Izgled spletne strani**
-[Webpage](images/webpage.png)
+![Webpage](images/webpage.png)
 
 ## **4. Možne izboljšave**
  - Izdelati ohišje
