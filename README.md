@@ -25,7 +25,7 @@ Lestvica je postavljena sledeče:
 - Izdelati ohišje
 - Zamenjati 3 LED diode z eno RGB LED diodo
 
-## **2. IoT implementacija***
+## **2. IoT implementacija**
 ### **2.1 Komponente:** 
  - NodeMCU esp8266
  - DHT11 modul
