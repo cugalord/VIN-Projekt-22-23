@@ -1,6 +1,6 @@
 # VIN-Projekt-22-23
 
-### Zunanja WiFi Vremenska postaja za merjenje temperature in vlažnosti
+### Zunanja Vremenska postaja za merjenje temperature in vlažnosti
 ## **1. Klasična implementacija**
 ### **1.1 Komponente:** 
  - Arduino Eleggoo UNO R3
