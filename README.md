@@ -3,7 +3,7 @@
 ### Zunanja Vremenska postaja za merjenje temperature in vlažnosti
 ## **1. Klasična implementacija**
 ### **1.1 Komponente:** 
- - Arduino Eleggoo UNO R3
+ - Arduino Elegoo UNO R3
  - DHT11 modul
  - 19x moške žičke
  - 4x upor (220 ohm)
